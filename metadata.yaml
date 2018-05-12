@@ -1,4 +1,8 @@
 _repo: Cavendish-on-Whist-18th-edition_51039
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 51039-h/images/cover.jpg
 creator:
   author:
     agent_name: Jones, Henry Festing
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '1080'
     url: http://www.gutenberg.org/2009/agents/1080
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51039#Cavendish-on-Whist-18th-edition
 gutenberg_issued: '2016-01-25'
 gutenberg_type: Text
 identifiers:
